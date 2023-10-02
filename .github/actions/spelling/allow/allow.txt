@@ -2,7 +2,6 @@ admins
 allcolors
 Apc
 apc
-backpressure
 breadcrumb
 breadcrumbs
 bsd
@@ -13,24 +12,18 @@ clickable
 clig
 CMMI
 copyable
-Counterintuitively
-CtrlDToClose
 cybersecurity
 dalet
 Dcs
 dcs
-deselection
 dialytika
-diffing
 dje
 downside
 downsides
 dze
 dzhe
-DTo
 EDDB
 EDDC
-Emacspeak
 Enum'd
 Fitt
 formattings
@@ -67,7 +60,6 @@ lol
 lorem
 Lorigin
 maxed
-megathread
 minimalistic
 mkmk
 mnt
@@ -79,8 +71,6 @@ ok'd
 overlined
 pipeline
 postmodern
-Powerline
-powerline
 ptys
 qof
 qps
@@ -95,8 +85,6 @@ shcha
 slnt
 Sos
 ssh
-stakeholders
-sxn
 timeline
 timelines
 timestamped
@@ -104,7 +92,6 @@ TLDR
 tokenizes
 tonos
 toolset
-truthiness
 tshe
 ubuntu
 uiatextrange
@@ -113,8 +100,6 @@ und
 unregister
 versioned
 vsdevcmd
-walkthrough
-walkthroughs
 We'd
 wildcards
 XBox

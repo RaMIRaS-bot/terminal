@@ -6,7 +6,7 @@
     "C_Cpp.loggingLevel": "None",
     "files.associations": {
         "xstring": "cpp",
-        "*.idl": "midl3",
+        "*.idl": "cpp",
         "array": "cpp",
         "future": "cpp",
         "istream": "cpp",
@@ -94,18 +94,12 @@
         "xlocinfo": "cpp",
         "xmemory": "cpp",
         "xstddef": "cpp",
-        "xtr1common": "cpp",
-        "coroutine": "cpp",
-        "format": "cpp",
-        "forward_list": "cpp",
-        "latch": "cpp"
+        "xtr1common": "cpp"
     },
     "files.exclude": {
         "**/bin/**": true,
         "**/obj/**": true,
+        "**/packages/**": true,
         "**/Generated Files/**": true
-    },
-    "search.exclude": {
-        "**/packages/**": true
     }
 }
